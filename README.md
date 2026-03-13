@@ -12,4 +12,6 @@ I'm Jasmeen — a data enthusiast passionate about turning raw numbers into mean
 Whether you're here to check out my work, get inspired, or just see how someone is figuring it all out — you're in the right place! 🤗
 Let's connect, learn, and grow together — one dataset at a time.
 
+## 🌐 Socials:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jasmeen-kaur-237538228)
